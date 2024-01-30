@@ -3,15 +3,15 @@ def question4_1():
     return answer
 
 def question4_2():
-    answer = ['Ratio', 'Oridnal']
+    answer = ['Ratio', 'Ordinal']
     return answer
 
 def question4_3():
-    answer = ['Ratio', 'Oridnal']
+    answer = ['Ratio', 'Ordinal']
     return answer 
 
 def question4_4():
-    answer = ['Ratio', 'Oridnal']
+    answer = ['Ratio', 'Ordinal']
     return answer
 
 def question4_5():
