@@ -7,14 +7,14 @@ def question9_2():
     return answer
 
 def question9_3():
-    answer = 'string'
+    answer = ''
     return answer 
 
 def question9_4():
-    answer = 'string'
+    answer = 'Euclidean'
     return answer 
 
 def question9_5():
-    answer = 'string'
+    answer = 'Cosine Similarity'
     return answer 
 
