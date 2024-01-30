@@ -15,10 +15,10 @@ def question2_3():
 
 def question2_4():
     # The categroies are not mathematical but there is ranking; i.e., a 2 on the scale is not twice as bad as a 4.
-    answer = ['Discrete', 'Qualitative', 'Oridnal.']
+    answer = ['Discrete', 'Qualitative', 'Oridnal']
     return answer
 
 def question2_5():
     # The values are not numerical and there is no ranking involved (i.e., 0001 is not better than 0002).
-    answer = ['Discrete', 'Qualitative', 'Nominal.']
+    answer = ['Discrete', 'Qualitative', 'Nominal']
     return answer
