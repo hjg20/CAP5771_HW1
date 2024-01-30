@@ -1,9 +1,9 @@
 def question9_1():
-    answer = 'string'
+    answer = 'SMC'
     return answer
 
 def question9_2():
-    answer = 'string'
+    answer = 'Jaccard'
     return answer
 
 def question9_3():
