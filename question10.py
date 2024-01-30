@@ -7,23 +7,23 @@ def question10_2():
     return answer
 
 def question10_3():
-    answer = ""
+    answer = False
     return answer
 
 def question10_4():
-    answer = ""
+    answer = False
     return answer
 
 def question10_5():
-    answer = ""
+    answer = False
     return answer
 
 def question10_6():
-    answer = ""
+    answer = False
     return answer
 
 def question10_7():
-    answer = ""
+    answer = True
     return answer
 
 def question10_8():
@@ -31,7 +31,7 @@ def question10_8():
     return answer
 
 def question10_9():
-    answer = ""
+    answer = False
     return answer
 
 def question10_10():
