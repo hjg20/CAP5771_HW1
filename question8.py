@@ -7,9 +7,9 @@ def question8_2():
     return answer
 
 def question8_3():
-    answer= ""
+    answer= "equally similar"
     return answer 
 
 def question8_4():
-    answer= ""
+    answer= ['x2, 'y3']
     return answer 
