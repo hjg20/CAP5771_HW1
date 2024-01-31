@@ -1,5 +1,5 @@
 def question3_1():
-    answer = ['Continuous', 'Quantitative', 'Ratio']
+    answer = ['Continuous', 'Quantitative', 'Interval']
     return answer
 
 def question3_2():
