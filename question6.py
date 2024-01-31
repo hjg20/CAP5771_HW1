@@ -7,7 +7,7 @@ def question6_1():
 
 def question6_2():
     answer = {
-        'equal_width': ['Change', 7],
+        'equal_width': ['Change', 2],
         'equal_frequency': ['No Change', 9]
     }
     return answer
