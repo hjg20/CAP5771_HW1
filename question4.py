@@ -1,5 +1,5 @@
 def question4_1():
-    answer = ['Nominal', 'Ordinal']#Ratio
+    answer = ['Nominal', 'Nominal']#Ratio
     return answer
 
 def question4_2():
