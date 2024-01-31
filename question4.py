@@ -3,11 +3,11 @@ def question4_1():
     return answer
 
 def question4_2():
-    answer = ['Ratio', 'Nominal']#Ordinal
+    answer = ['Ratio', 'Ordinal']
     return answer
 
 def question4_3():
-    answer = ['Ratio', 'Ordinal']
+    answer = ['Ratio', 'Nominal']#Ordinal
     return answer 
 
 def question4_4():
