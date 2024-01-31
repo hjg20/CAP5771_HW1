@@ -11,11 +11,11 @@ def question4_3():
     return answer 
 
 def question4_4():
-    answer = ['Interval', 'Ordinal']#Ordinal
+    answer = ['Ratio', 'Ordinal']
     return answer
 
 def question4_5():
-    answer = ['Ratio', 'Ratio']
+    answer = ['Ratio', 'Ordinal']#Ratio
     return answer
 
 def question4_6():
