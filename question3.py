@@ -3,11 +3,11 @@ def question3_1():
     return answer
 
 def question3_2():
-    answer = ['Discrete', 'Qualitative', 'Nominal']#Ordinal
+    answer = ['Discrete', 'Qualitative', 'Ordinal']
     return answer
 
 def question3_3():
-    answer = ['Discrete', 'Qualitative', 'Nominal']
+    answer = ['Discrete', 'Qualitative', 'Ordinal']#Nominal
     return answer 
 
 def question3_4():
