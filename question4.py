@@ -19,7 +19,7 @@ def question4_5():
     return answer
 
 def question4_6():
-    answer = ['Ratio', 'Nominal']#Ordinal
+    answer = ['Interval', 'Nominal']#Ordinal#Ratio
     return answer
 
 def question4_7():
