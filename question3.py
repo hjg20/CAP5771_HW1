@@ -23,7 +23,7 @@ def question3_6():
     return answer
 
 def question3_7():
-    answer = ['', '', '']#Continuous,Quantitative,Ratio
+    answer = [1, 2, 3]#Continuous,Quantitative,Ratio
     return answer
 
 def question3_8():
