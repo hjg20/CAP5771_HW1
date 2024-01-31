@@ -11,7 +11,7 @@ def question4_3():
     return answer 
 
 def question4_4():
-    answer = ['Ratio', 'Interval']#Ordinal
+    answer = ['Interval', 'Ordinal']#Ordinal
     return answer
 
 def question4_5():
