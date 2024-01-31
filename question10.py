@@ -1,5 +1,5 @@
 def question10_1():
-    answer = False
+    answer = True
     return answer
 
 def question10_2():
