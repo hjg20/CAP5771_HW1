@@ -1,9 +1,9 @@
 def question7_1():
-    answer = 'increase/decrease'
+    answer = 'non-increasing'
     return answer
 
 def question7_2():
-    answer = 'increase/decrease'
+    answer = 'non-increasing'
     return answer
 
 def question7_3():
