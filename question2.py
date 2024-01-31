@@ -9,13 +9,13 @@ def question2_2():
     return answer
 
 def question2_3():
-    # Decibels is a continuous scale, has a zero, and allows ratios.
-    answer = ['continuous', 'quantitative', 'interval']#ratio
+    # Decibels is a continuous scale, but has no true zero.
+    answer = ['continuous', 'quantitative', 'interval']
     return answer 
 
 def question2_4():
     # The categroies are not mathematical but there is ranking; i.e., a 2 on the scale is not twice as bad as a 4.
-    answer = ['discrete', 'qualitative', 'ordinal']
+    answer = ['discrete', 'qualitative', 'interval']#ordinal
     return answer
 
 def question2_5():
