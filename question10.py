@@ -1,9 +1,9 @@
 def question10_1():
-    answer = True
+    answer = False
     return answer
 
 def question10_2():
-    answer = True
+    answer = False
     return answer
 
 def question10_3():
