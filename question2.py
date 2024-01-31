@@ -5,12 +5,12 @@ def question2_1():
 
 def question2_2():
     # Car speed allows ratios (20mph is half of 40mph), and is continuous due to it being uncountably infinite.
-    answer = ['continuous', 'quantitative', 'interval']#ratio
+    answer = ['continuous', 'quantitative', 'ratio']
     return answer
 
 def question2_3():
     # Decibels is a continuous scale, has a zero, and allows ratios.
-    answer = ['continuous', 'quantitative', 'ratio']
+    answer = ['continuous', 'quantitative', 'interval']#ratio
     return answer 
 
 def question2_4():
