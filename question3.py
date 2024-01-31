@@ -27,5 +27,5 @@ def question3_7():
     return answer
 
 def question3_8():
-    answer = ['Continuous', 'Qualitative', 'Nominal']
+    answer = ['Discrete', 'Qualitative', 'Ordinal']
     return answer
