@@ -15,11 +15,11 @@ def question3_4():
     return answer
 
 def question3_5():
-    answer = ['Discrete', 'Qualitative', 'Ordinal']#Nominal
+    answer = ['Discrete', 'Qualitative', 'Nominal']
     return answer
 
 def question3_6():
-    answer = ['Continuous', 'Quantitative', 'Ratio']
+    answer = ['Continuous', 'Quantitative', 'Interval']#Ratio
     return answer
 
 def question3_7():
