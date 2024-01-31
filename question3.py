@@ -1,9 +1,9 @@
 def question3_1():
-    answer = ['Continuous', 'Quantitative', 'Ratio']#Interval
+    answer = ['Continuous', 'Quantitative', 'Interval']
     return answer
 
 def question3_2():
-    answer = ['Discrete', 'Qualitative', 'Ordinal']
+    answer = ['Discrete', 'Qualitative', 'Nominal']#Ordinal
     return answer
 
 def question3_3():
