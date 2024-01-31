@@ -15,11 +15,11 @@ def question4_4():
     return answer
 
 def question4_5():
-    answer = ['Ratio', 'Ordinal']#Ratio
+    answer = ['Ratio', 'Ordinal']
     return answer
 
 def question4_6():
-    answer = ['Ratio', 'Ordinal']
+    answer = ['Ratio', 'Ratio']#Ordinal
     return answer
 
 def question4_7():
