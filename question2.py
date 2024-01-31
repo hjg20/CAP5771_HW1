@@ -1,11 +1,11 @@
 def question2_1():
     # Number of courses is countable and allows ratios, but is not continuous due to it being countably infinite.
-    answer = ['discrete', 'quantitative', 'interval']#ratio
+    answer = ['discrete', 'quantitative', 'ratio']
     return answer
 
 def question2_2():
     # Car speed allows ratios (20mph is half of 40mph), and is continuous due to it being uncountably infinite.
-    answer = ['continuous', 'quantitative', 'ratio']
+    answer = ['continuous', 'quantitative', 'interval']#ratio
     return answer
 
 def question2_3():
