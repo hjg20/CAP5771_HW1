@@ -20,5 +20,5 @@ def question2_4():
 
 def question2_5():
     # The values are not numerical and there is no ranking involved (i.e., 0001 is not better than 0002).
-    answer = ['discrete', 'qualitative', 'ordinal']#nominal
+    answer = ['discrete', 'qualitative', 'nominal']
     return answer
