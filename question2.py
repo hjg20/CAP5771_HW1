@@ -1,6 +1,6 @@
 def question2_1():
     # Number of courses is countable and allows ratios, but is not continuous due to it being countably infinite.
-    answer = ['discrete', 'quantitative', 'ratio']
+    answer = ['discrete', 'quantitative', 'interval']#ratio
     return answer
 
 def question2_2():
