@@ -1,5 +1,5 @@
 def question4_1():
-    answer = ['Nominal', 'Ordinal']
+    answer = ['Nominal', 'Interval']
     return answer
 
 def question4_2():
